@@ -21,7 +21,7 @@ A fun and interactive command-line game where players guess a randomly generated
    ```
 4. Run the game using:
    ```bash
-   python main.py
+   python source.py
    ```
 
 ## Inspiration
